@@ -66,7 +66,7 @@ My learning approach is simple — build, break, improve, and repeat.
 
 ## 📊 GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitin4568&theme=dark&show_icons=true&hide_border=false"/>
 </p>
 
@@ -76,7 +76,7 @@ My learning approach is simple — build, break, improve, and repeat.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin4568&layout=compact&theme=dark&hide_border=false"/>
-</p>
+</p> -->
 
 ---
 
