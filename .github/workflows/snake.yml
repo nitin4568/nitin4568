@@ -21,7 +21,8 @@ jobs:
         with:
           github_user_name: nitin4568
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ff00ff
+            outputs: |
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ff00ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
             dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
