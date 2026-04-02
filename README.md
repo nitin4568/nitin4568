@@ -73,7 +73,7 @@ I enjoy thinking about system design and building real-world applications.
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitin4568&theme=tokyonight&show_icons=true"/>
 </p>
 
@@ -83,7 +83,7 @@ I enjoy thinking about system design and building real-world applications.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin4568&layout=compact&theme=tokyonight"/>
-</p>
+</p> -->
 
 ---
 
@@ -105,9 +105,9 @@ I enjoy thinking about system design and building real-world applications.
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitin4568&theme=darkhub&no-frame=true&margin-w=10"/>
-</p>
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nitin4568&theme=darkhub&no-frame=true&margin-w=10"/> -->
+<!-- </p> -->
 
 ---
 
