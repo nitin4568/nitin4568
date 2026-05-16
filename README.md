@@ -112,11 +112,11 @@ I enjoy thinking about system design and building real-world applications.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/nitin4568/github-games/main/output/pacman-contribution-graph-dark.svg">
+      srcset="https://raw.githubusercontent.com/nitin4568/github-games/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/nitin4568/github-games/main/output/pacman-contribution-graph.svg">
+      srcset="https://raw.githubusercontent.com/nitin4568/github-games/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph"
-      src="https://raw.githubusercontent.com/nitin4568/github-games/main/output/pacman-contribution-graph.svg">
+      src="https://raw.githubusercontent.com/nitin4568/github-games/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
@@ -127,11 +127,11 @@ I enjoy thinking about system design and building real-world applications.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/nitin4568/github-games/main/output/galaga-contribution-graph-dark.svg">
+      srcset="https://raw.githubusercontent.com/nitin4568/github-games/output/galaga-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/nitin4568/github-games/main/output/galaga-contribution-graph.svg">
+      srcset="https://raw.githubusercontent.com/nitin4568/github-games/output/galaga-contribution-graph.svg">
     <img alt="galaga contribution graph"
-      src="https://raw.githubusercontent.com/nitin4568/github-games/main/output/galaga-contribution-graph.svg">
+      src="https://raw.githubusercontent.com/nitin4568/github-games/output/galaga-contribution-graph.svg">
   </picture>
 </p>
 
@@ -142,11 +142,11 @@ I enjoy thinking about system design and building real-world applications.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/nitin4568/github-games/main/output/bomberman-contribution-graph-dark.svg">
+      srcset="https://raw.githubusercontent.com/nitin4568/github-games/output/bomberman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/nitin4568/github-games/main/output/bomberman-contribution-graph.svg">
+      srcset="https://raw.githubusercontent.com/nitin4568/github-games/output/bomberman-contribution-graph.svg">
     <img alt="bomberman contribution graph"
-      src="https://raw.githubusercontent.com/nitin4568/github-games/main/output/bomberman-contribution-graph.svg">
+      src="https://raw.githubusercontent.com/nitin4568/github-games/output/bomberman-contribution-graph.svg">
   </picture>
 </p>
 ---
