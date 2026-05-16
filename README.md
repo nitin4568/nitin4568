@@ -107,8 +107,6 @@ I enjoy thinking about system design and building real-world applications.
        src="https://raw.githubusercontent.com/nitin4568/nitin4568/output/github-snake.svg" />
    </picture>
 </p>
-## 🟡 Pacman Contribution Graph
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/nitin4568/nitin4568/output/pacman-contribution-graph.svg">
 </p>
