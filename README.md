@@ -110,7 +110,14 @@ I enjoy thinking about system design and building real-world applications.
 ## 🟡 Pacman
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nitin4568/github-games/main/dist/pacman.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nitin4568/github-games/main/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/nitin4568/github-games/main/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph"
+      src="https://raw.githubusercontent.com/nitin4568/github-games/main/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
@@ -118,7 +125,14 @@ I enjoy thinking about system design and building real-world applications.
 ## 🚀 Galaga
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nitin4568/github-games/main/dist/galaga.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nitin4568/github-games/main/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/nitin4568/github-games/main/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph"
+      src="https://raw.githubusercontent.com/nitin4568/github-games/main/output/galaga-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
@@ -126,7 +140,14 @@ I enjoy thinking about system design and building real-world applications.
 ## 💣 Bomberman
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nitin4568/github-games/main/dist/bomberman.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nitin4568/github-games/main/output/bomberman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/nitin4568/github-games/main/output/bomberman-contribution-graph.svg">
+    <img alt="bomberman contribution graph"
+      src="https://raw.githubusercontent.com/nitin4568/github-games/main/output/bomberman-contribution-graph.svg">
+  </picture>
 </p>
 ---
 
