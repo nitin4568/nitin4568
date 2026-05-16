@@ -107,10 +107,27 @@ I enjoy thinking about system design and building real-world applications.
        src="https://raw.githubusercontent.com/nitin4568/nitin4568/output/github-snake.svg" />
    </picture>
 </p>
+## 🟡 Pacman
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nitin4568/nitin4568/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/nitin4568/github-games/main/dist/pacman.svg">
 </p>
 
+---
+
+## 🚀 Galaga
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nitin4568/github-games/main/dist/galaga.svg">
+</p>
+
+---
+
+## 💣 Bomberman
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nitin4568/github-games/main/dist/bomberman.svg">
+</p>
 ---
 
 <!--## 🏆 GitHub Trophies
