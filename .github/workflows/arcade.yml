@@ -20,6 +20,9 @@ jobs:
           github_user_name: nitin4568
           games: pacman,galaga,bomberman
 
+      - name: List dist files
+        run: ls -R dist
+
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
