@@ -28,5 +28,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          repository_name: nitin4568/github-games
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
