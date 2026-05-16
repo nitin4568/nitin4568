@@ -26,8 +26,8 @@ jobs:
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
+          repo: nitin4568/github-games
           target_branch: output
           build_dir: dist
-          repository_name: nitin4568/github-games
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
