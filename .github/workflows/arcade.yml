@@ -2,6 +2,8 @@ name: Arcade Games
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -14,11 +16,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Arcade
+      - name: Generate Arcade Games
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: nitin4568
-          games: pacman,galaga,bomberman
+          games: pacman,breakout,galaga,puzzle-bobble,bomberman
 
       - name: List dist files
         run: ls -R dist
