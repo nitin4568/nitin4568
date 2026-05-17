@@ -108,26 +108,6 @@ I enjoy thinking about system design and building real-world applications.
   </picture>
 </p>
 ---
-## 🟡 Pacman
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/pacman-contribution-graph.svg">
-</p>
-
----
-
-## 🚀 Galaga
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/galaga-contribution-graph.svg">
-</p>
-
----
-
-## 💣 Bomberman
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/bomberman-contribution-graph.svg">
 </p>
 
 ---
