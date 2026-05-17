@@ -111,41 +111,14 @@ I enjoy thinking about system design and building real-world applications.
 </p>
 
 ---
-## 🟡 Pacman
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/pacman-contribution-graph.svg">
-</p>
-
----
-
-## 🚀 Galaga
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/galaga-contribution-graph.svg">
-</p>
-
----
-
-## 💣 Bomberman
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/bomberman-contribution-graph.svg">
-</p>
-
----
 ## 🟡 Pac-Man
 
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/pacman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/pacman-contribution-graph.svg">
-
   <img alt="pacman contribution graph"
-    src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/pacman-contribution-graph.svg">
+    src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/pacman-contribution-graph-dark.svg">
 </picture>
 </p>
 
@@ -157,12 +130,8 @@ I enjoy thinking about system design and building real-world applications.
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/breakout-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/breakout-contribution-graph.svg">
-
   <img alt="breakout contribution graph"
-    src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/breakout-contribution-graph.svg">
+    src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/breakout-contribution-graph-dark.svg">
 </picture>
 </p>
 
@@ -174,12 +143,8 @@ I enjoy thinking about system design and building real-world applications.
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/galaga-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/galaga-contribution-graph.svg">
-
   <img alt="galaga contribution graph"
-    src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/galaga-contribution-graph.svg">
+    src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/galaga-contribution-graph-dark.svg">
 </picture>
 </p>
 
@@ -191,12 +156,8 @@ I enjoy thinking about system design and building real-world applications.
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/puzzle-bobble-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/puzzle-bobble-contribution-graph.svg">
-
   <img alt="puzzle bobble contribution graph"
-    src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/puzzle-bobble-contribution-graph.svg">
+    src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/puzzle-bobble-contribution-graph-dark.svg">
 </picture>
 </p>
 
@@ -208,12 +169,8 @@ I enjoy thinking about system design and building real-world applications.
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/bomberman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/bomberman-contribution-graph.svg">
-
   <img alt="bomberman contribution graph"
-    src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/bomberman-contribution-graph.svg">
+    src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/bomberman-contribution-graph-dark.svg">
 </picture>
 </p>
 
