@@ -134,6 +134,8 @@ I enjoy thinking about system design and building real-world applications.
 
 ---
 
+---
+
 <!--## 🏆 GitHub Trophies
 
  <p align="center">
