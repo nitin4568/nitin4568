@@ -109,11 +109,10 @@ I enjoy thinking about system design and building real-world applications.
 </p>
 
 ---
-
 ## 🟡 Pacman
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nitin4568/nitin4568/output/pacman-contribution-graph.svg">
+  <img src="https://github.com/nitin4568/nitin4568/blob/output/pacman-contribution-graph.svg?raw=true">
 </p>
 
 ---
@@ -121,7 +120,7 @@ I enjoy thinking about system design and building real-world applications.
 ## 🚀 Galaga
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nitin4568/nitin4568/output/galaga-contribution-graph.svg">
+  <img src="https://github.com/nitin4568/nitin4568/blob/output/galaga-contribution-graph.svg?raw=true">
 </p>
 
 ---
@@ -129,7 +128,7 @@ I enjoy thinking about system design and building real-world applications.
 ## 💣 Bomberman
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nitin4568/nitin4568/output/bomberman-contribution-graph.svg">
+  <img src="https://github.com/nitin4568/nitin4568/blob/output/bomberman-contribution-graph.svg?raw=true">
 </p>
 
 ---
