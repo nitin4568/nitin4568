@@ -101,7 +101,7 @@ I enjoy thinking about system design and building real-world applications.
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/nitin4568/nitin4568/output/github-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)"
+  <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/nitin4568/nitin4568/output/github-snake.svg">
 
   <img alt="github contribution snake"
@@ -109,7 +109,6 @@ I enjoy thinking about system design and building real-world applications.
 </picture>
 </p>
 
----
 
 ---
 ## 🟡 Pac-Man
