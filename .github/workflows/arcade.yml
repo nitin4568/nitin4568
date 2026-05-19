@@ -20,15 +20,18 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: nitin4568
-          games: pacman,breakout,galaga,puzzle-bobble,bomberman
+          games: pacman,galaga,bomberman
 
-      - name: List dist files
-        run: ls -R dist
+      - name: Check generated files
+        run: |
+          ls -la dist
+          find dist -type f
 
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
