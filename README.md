@@ -97,20 +97,14 @@ I enjoy thinking about system design and building real-world applications.
 ## 🐍 Contribution Snake
 
 <p align="center">
-<picture>
-
-  <!-- Dark mode -->
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nitin4568/nitin4568/output/github-snake-dark.svg">
-
-  <!-- Light mode -->
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nitin4568/nitin4568/output/github-snake.svg">
-
-  <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/nitin4568/nitin4568/output/github-snake.svg">
-
-</picture>
+   <picture>
+     <source media="(prefers-color-scheme: dark)" 
+       srcset="https://raw.githubusercontent.com/nitin4568/nitin4568/output/github-snake-dark.svg" />
+     <source media="(prefers-color-scheme: light)" 
+       srcset="https://raw.githubusercontent.com/nitin4568/nitin4568/output/github-snake.svg" />
+     <img alt="github contribution snake" 
+       src="https://raw.githubusercontent.com/nitin4568/nitin4568/output/github-snake.svg" />
+   </picture>
 </p>
 
 
