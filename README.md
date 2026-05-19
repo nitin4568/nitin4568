@@ -99,7 +99,7 @@ I enjoy thinking about system design and building real-world applications.
 <p align="center">
   <img
     alt="github contribution snake"
-    src="https://raw.githubusercontent.com/nitin4568/nitin4568/output/github-snake-dark.svg">
+    src="https://github.com/nitin4568/nitin4568/blob/output/github-snake-dark.svg?raw=true">
 </p>
 
 ---
