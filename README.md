@@ -104,10 +104,11 @@ I enjoy thinking about system design and building real-world applications.
 
 
 ---
+---
 ## 🟡 Pac-Man
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/pacman-contribution-graph-dark.svg">
+<img src="https://github.com/nitin4568/nitin4568/blob/output/pacman-contribution-graph-dark.svg?raw=true">
 </p>
 
 ---
@@ -115,12 +116,7 @@ I enjoy thinking about system design and building real-world applications.
 ## 🧱 Breakout
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/breakout-contribution-graph-dark.svg">
-  <img alt="breakout contribution graph"
-    src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/breakout-contribution-graph-dark.svg">
-</picture>
+<img src="https://github.com/nitin4568/nitin4568/blob/output/breakout-contribution-graph-dark.svg?raw=true">
 </p>
 
 ---
@@ -128,12 +124,7 @@ I enjoy thinking about system design and building real-world applications.
 ## 🚀 Galaga
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/galaga-contribution-graph-dark.svg">
-  <img alt="galaga contribution graph"
-    src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/galaga-contribution-graph-dark.svg">
-</picture>
+<img src="https://github.com/nitin4568/nitin4568/blob/output/galaga-contribution-graph-dark.svg?raw=true">
 </p>
 
 ---
@@ -141,12 +132,7 @@ I enjoy thinking about system design and building real-world applications.
 ## 🫧 Puzzle Bobble
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/puzzle-bobble-contribution-graph-dark.svg">
-  <img alt="puzzle bobble contribution graph"
-    src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/puzzle-bobble-contribution-graph-dark.svg">
-</picture>
+<img src="https://github.com/nitin4568/nitin4568/blob/output/puzzle-bobble-contribution-graph-dark.svg?raw=true">
 </p>
 
 ---
@@ -154,9 +140,10 @@ I enjoy thinking about system design and building real-world applications.
 ## 💣 Bomberman
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/bomberman-contribution-graph-dark.svg">
+<img src="https://github.com/nitin4568/nitin4568/blob/output/bomberman-contribution-graph-dark.svg?raw=true">
 </p>
 
+---
 
 <!--## 🏆 GitHub Trophies
 
