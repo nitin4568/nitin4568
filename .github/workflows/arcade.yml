@@ -22,16 +22,13 @@ jobs:
           github_user_name: nitin4568
           games: pacman,breakout,galaga,puzzle-bobble,bomberman
 
-      - name: Check generated files
-        run: |
-          echo "Generated files:"
-          ls -la dist
+      - name: List dist files
+        run: ls -R dist
 
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
