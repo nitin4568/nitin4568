@@ -107,12 +107,7 @@ I enjoy thinking about system design and building real-world applications.
 ## 🟡 Pac-Man
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph"
-    src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/pacman-contribution-graph-dark.svg">
-</picture>
+<img src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/pacman-contribution-graph-dark.svg">
 </p>
 
 ---
@@ -159,12 +154,7 @@ I enjoy thinking about system design and building real-world applications.
 ## 💣 Bomberman
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/bomberman-contribution-graph-dark.svg">
-  <img alt="bomberman contribution graph"
-    src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/bomberman-contribution-graph-dark.svg">
-</picture>
+<img src="https://cdn.jsdelivr.net/gh/nitin4568/nitin4568@output/bomberman-contribution-graph-dark.svg">
 </p>
 
 
