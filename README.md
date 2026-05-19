@@ -102,8 +102,6 @@ I enjoy thinking about system design and building real-world applications.
     src="https://raw.githubusercontent.com/nitin4568/nitin4568/output/github-snake-dark.svg">
 </p>
 
-
----
 ---
 ## 🟡 Pac-Man
 
