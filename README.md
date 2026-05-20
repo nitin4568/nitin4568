@@ -8,7 +8,7 @@
 
 ---
 
-<h1 align="center">Hi, I'm Nitin Gautam 👋</h1>
+<h1 align="center">Hi, I'm Nitin Gautam </h1>
 
 <p align="center">
   Software Engineer • System Design Enthusiast • Open Source Learner
